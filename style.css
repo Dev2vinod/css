@@ -1,12 +1,87 @@
 .col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12,.col{
-    border: 2px solid blue;
+    border: 2px solid yellow;
 }
 
 .container{
-    border: 1px dotted pink;
-    background: rgb(192, 55, 17) !important;
+    border: 3px dotted black;
+    /* background: rgb(192, 55, 17) !important; */
 }
 
 .row{
-    background-color: rgb(127, 126, 125);
+    /* background-color: rgb(127, 126, 125); */
+    border: 3px solid red;
 }
+
+#web{
+    background-color: orange;
+}
+
+ #nav{
+    background-color: palevioletred;
+ }
+
+ #sub{
+    background-color: wheat;
+ }
+
+ #side{
+    background-color: cornflowerblue;
+ }
+
+ #footer{
+    background-color: greenyellow;
+ }
+
+ .pink{
+    background-color: pink;
+ }
+
+ .orange{
+    background-color: orange;
+ }
+ .blue{
+    background-color: blue;
+ }
+
+ .green{
+    background-color: greenyellow;
+ }
+
+ .coral{
+   background-color: coral;
+ }
+
+ .cyan{
+   background-color: cyan;
+ }
+
+ .tomato{
+   background-color: tomato;
+ }
+
+ .black{
+   background-color: springgreen;
+ }
+ .gray{
+   background-color: gray;
+ }
+ .cards{
+   border: 2px solid black;
+   padding: 7px;
+   margin: 3px;
+   object-fit: contain;
+   height: 140px;
+   width: 140px;
+   margin-top: 22px;
+   /* background-image: url("./animation/space.gif"); */
+   box-shadow: -1px -1px 54px white;
+   zoom: 1;
+ }
+
+ .me{
+   height: 200px;
+   width: 200px;
+   background-color: chartreuse;
+ }
+
+ 
